@@ -16,7 +16,7 @@
 <script>
     import Icon from './icon'
     export default {
-        name: "input",
+        name: "GuluInput",
         components:{
             'g-icon':Icon
         },
