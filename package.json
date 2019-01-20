@@ -2,11 +2,12 @@
   "name": "gulu-xingkong-test",
   "version": "0.0.3",
   "description": "gulu vue",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "parcel index.html --no-cache",
     "dev-test": "parcel watch test/* --no-cache & karma start",
-    "test": "parcel build test/* --no-cache --no-minify && karma start --single-run"
+    "test": "parcel build test/* --no-cache --no-minify && karma start --single-run",
+    "publish-build":"parcel build index.js --no-cache --no-minify"
   },
   "author": "xingkongs",
   "license": "MIT",
