@@ -1,5 +1,7 @@
 # 轱辘 - 一个 Vue UI 组件
 
+[![Build Status](https://www.travis-ci.org/xingkongs/xingkong-test-1.svg?branch=master)](https://www.travis-ci.org/xingkongs/xingkong-test-1)
+
 ## 介绍
 这是我在学习 Vue 过程中做的一个 UI 框架
 
